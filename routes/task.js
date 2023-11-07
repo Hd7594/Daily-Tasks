@@ -62,7 +62,3 @@ router.delete("/daily/delete", async (req, res) => {
 });
 
 module.exports = router;
-
-/*
-faire projet cloudinary
-*/
